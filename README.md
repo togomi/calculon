@@ -4,6 +4,10 @@
 
 
 ## Table of Contents
-1. Introduction 
-2. Core Features 
-3. Future Designs
+1. [Go to Introduction](#introduction) 
+2. [Go to Core Features](#core-features) 
+3. [Go to Future Features](#the-future-features)
+
+## Introduction
+## Core Features
+## The Future Features
