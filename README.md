@@ -31,7 +31,7 @@ It was initially started as a side project to practice the above by Ted Shin, Mo
 
 3. **Development Method:** Agile 
 * We start with really basic functionalities, test, release and keep improving using barebones [Agile Development](https://en.wikipedia.org/wiki/Agile_software_development)
-![Image of Agile Development](https://i0.wp.com/number8.com/wp-content/uploads/2017/08/wide-agile-lifecycle.png?fit=1000%2C450&ssl=1). While we think the usage of full Agile development is overkill for a small project like this, but it is still good practice.
+![Image of Agile Development](https://i0.wp.com/number8.com/wp-content/uploads/2017/08/wide-agile-lifecycle.png?fit=1000%2C450&ssl=1) While we think the usage of the full Agile development is overkill for a small project like this, it is still good practice.
 
 
 ## Core Features
