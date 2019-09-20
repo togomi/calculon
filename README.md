@@ -4,9 +4,9 @@
 
 
 ## Table of Contents
-1. [Go to Introduction](#introduction) 
-2. [Go to Core Features](#core-features) 
-3. [Go to Future Features](#the-future-features)
+1. [Introduction](#introduction) 
+2. [Core Features](#core-features) 
+3. [Future Features](#the-future-features)
 
 ## Introduction
 ## Core Features
