@@ -27,7 +27,7 @@ It was initially started as a side project to practice the above by Ted Shin, Mo
 2. Version Control: Git
 * This is No Brainer thesedays
 3. Development Method: Agile 
-* We start with really basic functionalities, test, release and keep improving using [Agile Development](https://en.wikipedia.org/wiki/Agile_software_developmentAgile approach)
+* We start with really basic functionalities, test, release and keep improving using [Agile Development](https://en.wikipedia.org/wiki/Agile_software_development)
 ![Image of Agile Development](https://i0.wp.com/number8.com/wp-content/uploads/2017/08/wide-agile-lifecycle.png?fit=1000%2C450&ssl=1)
 
 
