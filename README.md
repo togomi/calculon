@@ -21,6 +21,16 @@ It was determined that making such calculator is good practice for learning:
 
 It was initially started as a side project to practice the above by Ted Shin, Moon Lee, and YJ Lee.
 
+*Development Methods*
+1. Technology: Django for Backend, Heroku for Server, HTML + CSS + JavaScript for Frontend and AWS for client data storage.
+* From previous experience, for small projects like this, Heroku and Django works great..  and HTML, CSS, JS are bread-butter of web app development
+2. Version Control: Git
+* This is No Brainer thesedays
+3. Development Method: Agile 
+* We start with really basic functionalities, test, release and keep improving using [Agile Development](https://en.wikipedia.org/wiki/Agile_software_developmentAgile approach)
+![Image of Agile Development](https://i0.wp.com/number8.com/wp-content/uploads/2017/08/wide-agile-lifecycle.png?fit=1000%2C450&ssl=1)
+
+
 ## Core Features
 
 The core features of **Calculon** is the basic calculation function similar to your run of the mill built-in windows calculator
