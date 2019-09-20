@@ -17,14 +17,14 @@ It was determined that making such calculator is good practice for learning:
 1. How to develop and launch a web application. 
 2. Learn about Django + Heroku as backend and HTML + CSS + JavaScript for frontend. 
 3. Learn how to use version control using Git.
-4. Learn how to collaborate with other people in brainstorming, designing, delegating, and building software.
+4. Learn how to collaborate with other people by brainstorming ideas, designing features, delegating tasks, and finally building software together.
 
-It was initially started as a good side project to practice the above points by Ted Shin, Moon Lee, and YJ Lee.
+It was initially started as a side project to practice the above by Ted Shin, Moon Lee, and YJ Lee.
 
 ## Core Features
 
 The core features of **Calculon** is the basic calculation function similar to your run of the mill built-in windows calculator
-![Image of Basic Calculator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7lVJlcyAl0zbyzxIKAshjdIE9aVCcJQU9SOzZorFv1fnXVPI)
+![Image of Basic Calculator](http://cdn.makeuseof.com/wp-content/uploads/2016/01/calc.exe_.jpg?26523c)
 
 
 ## The Future Features
